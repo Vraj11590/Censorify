@@ -1,0 +1,19 @@
+{
+	"author" : "Vrajesh Patel",
+	"dateCreated" : "07/08/2016 7:06 PM EST",
+	"name" : "Censorify",
+	"version" : "0.1.1",
+	"description" : "Censor words out of text",
+	"main" : "censortext",
+	"repository" : {
+			"type" : "git",
+			"url" : "https://github.com/Vraj11590/Censorify.git"
+		},
+	"keywords" : {
+		"censor", "words"
+	},
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
